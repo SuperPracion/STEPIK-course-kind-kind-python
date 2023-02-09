@@ -1,1 +1,0 @@
-# STEPIK-course-kind-kind-python

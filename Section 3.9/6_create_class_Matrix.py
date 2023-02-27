@@ -54,3 +54,4 @@ class Matrix:
         else:
             self.__is_digit(other)
             return Matrix([[self[i, j] - other for j in range(self.cols)] for i in range(self.rows)])
+
